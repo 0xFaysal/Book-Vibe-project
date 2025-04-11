@@ -1,0 +1,47 @@
+[
+    {
+        "bookId": 1,
+        "bookName": "The Great Gatsby",
+        "totalPages": 180
+    },
+    {
+        "bookId": 2,
+        "bookName": "1984",
+        "totalPages": 328
+    },
+    {
+        "bookId": 3,
+        "bookName": "To Kill a Mockingbird",
+        "totalPages": 281
+    },
+    {
+        "bookId": 4,
+        "bookName": "The Catcher in the Rye",
+        "totalPages": 224
+    },
+    {
+        "bookId": 5,
+        "bookName": "Pride and Prejudice",
+        "totalPages": 279
+    },
+    {
+        "bookId": 6,
+        "bookName": "The Hobbit",
+        "totalPages": 310
+    },
+    {
+        "bookId": 7,
+        "bookName": "Crime and Punishment",
+        "totalPages": 576
+    },
+    {
+        "bookId": 8,
+        "bookName": "The Alchemist",
+        "totalPages": 197
+    },
+    {
+        "bookId": 9,
+        "bookName": "The Lord of the Rings",
+        "totalPages": 1178
+    }
+]

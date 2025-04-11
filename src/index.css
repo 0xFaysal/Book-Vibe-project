@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;800;900&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    font-family: "Work Sans", sans-serif;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Playfair Display", serif;
+}
+
+.btn-primary {
+    @apply bg-primary-full md:py-[1rem] py-3 px-4 md:px-[1.75rem] md:text-lg rounded-lg md:font-semibold;
+    color: white !important;
+}
+.btn-secondary {
+    @apply bg-secondary-1 md:py-[1rem] py-3 px-5 md:px-[1.75rem] md:text-lg rounded-lg font-semibold;
+    color: white !important;
+}
+
+.btn {
+    @apply py-[1rem] px-[1.75rem] text-lg border border-black-30 rounded-lg font-semibold;
+    color: #131313 !important;
+    background-color: transparent !important;
+    height: auto !important;
+}
